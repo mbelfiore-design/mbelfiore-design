@@ -1,7 +1,7 @@
 # Marcos Belfiore
 IT Infrastructure Lead at Viking Systems · Brooklyn, NY · SF Bay Area
 
-I find where work breaks, then build the fix with AI. I scope the work with the people who use it, direct Claude, Claude Code and Replit to build it, and review every change before it ships.
+I find where work breaks, then build the fix with AI. I scope the work with the people who use it, direct Claude, Claude Code, Gemini, Chat GPT and Replit to build it, and review every change before it ships.
 
 ## What I build
 - **NOC monitoring app** — built with AI on UniFi Site Manager and Domotz for 81+ client sites; MCP server integrations let Claude query live monitoring data. *(Company code — private.)*
