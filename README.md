@@ -14,6 +14,7 @@ I find where work breaks, then build the fix with AI. I scope the work with the 
 - **Claude Code** — AI-directed development: I scope the change, Claude Code writes it, I review it before it ships
 - **Replit** — built the NOC monitoring app with AI
 - **Google Gemini** — daily use for research, drafting and summarizing (app and Google Workspace)
+- **Chat GPT** — daily use for research, drafting and summarizing 
 - **GitHub Actions** — automatic test runs on the job scraper
 
 ## How I work
